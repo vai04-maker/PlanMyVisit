@@ -1,0 +1,6 @@
+export const API_URL = 'http://localhost:8191'
+export const JPA_API_URL = 'http://localhost:8191/jpa'
+export const GEO_API = 'https://trueway-geocoding.p.rapidapi.com/Geocode'
+export const GEO_KEY = ''
+export const OPT_URL = 'https://api.mapbox.com/optimized-trips/v1/mapbox/driving/'
+export const OPT_KEY = ''

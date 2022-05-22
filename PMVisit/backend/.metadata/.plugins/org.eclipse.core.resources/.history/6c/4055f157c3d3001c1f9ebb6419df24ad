@@ -1,0 +1,5 @@
+package com.vaibhav.rest.webservices.restfulwebservices;
+
+public class BcryptEncoderTest {
+
+}
